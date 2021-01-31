@@ -1,7 +1,7 @@
 {
     "name": "decrypt-token",
     "version": "1.0.0",
-    "description": "Microservicio para desencriptar token",
+    "description": "Microservicio para desencriptar token generado en ms GenerateEncryptToken",
     "main": "app.js",
     "scripts": {
         "start": "node src/app.js",

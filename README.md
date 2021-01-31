@@ -1,6 +1,6 @@
 # DecryptToken
 
-_Microservicio para desencriptar token_
+_Microservicio para desencriptar token generado en ms GenerateEncryptToken_
 
 ## Herramientas necesarias 🛠️
 
